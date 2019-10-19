@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿#Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <AssemblyName>Jint.Benchmark</AssemblyName>
@@ -27,4 +27,4 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
     <PackageReference Include="NiL.JS.NetCore" Version="2.5.1327" />
   </ItemGroup>
-</Project>
+#Project*
